@@ -1,7 +1,4 @@
 
-<style>
-
-</style>
 
 <div class="panel panel-default col-md-12 menu-panel">
   <div class="panel-body">

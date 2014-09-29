@@ -244,11 +244,6 @@
 
                 </div>
 
-
-
-
-
-
 				<p>
 
 					<br>
@@ -265,7 +260,6 @@
 				<?php
 					    include ('componentes/menu-lateral.php')
 					?>
-
 			</div>
 
 		</div>
