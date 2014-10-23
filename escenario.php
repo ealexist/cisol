@@ -27,22 +27,13 @@
 				</p>
 				<br><br>
 				<hr>
-				<div class="col-md-4">
-					<img class="img-responsive" src="assets/img/pagina/espacio.png" alt="">
+				<div class="col-md-5">
+					<img class="img-responsive" src="assets/img/pagina/calderon.jpg" alt="">
 				</div>
 
-				<div class="col-md-7 col-md-offset-1">
+				<div class="col-md-6 col-md-offset-1">
 					<br>
-					<h4>Talleres prácticos: 12 y 13 de mayo, LABSOL</h4>
-					<ul>
-						<li>Auditorio, 9 salas y laboratorio de cómputo</li>
-						<li>Horarios: 10-14 hrs y 16-19 hrs</li>
-						<li>Capacidad: 11 talleres simultaneos, hasta 40 talleres</li>
-					</ul>
-					<br><br>
-					<hr>
-					<br><br>
-					<h4>Congreso General: 14, 15 y 16 de mayo, Convenciones</h4>
+					<h4>Congreso General: 3 al 7 de Noviembre, Teatro Fernando Calderón y Ciudadela del Arte</h4>
 					<ul>
 						<li>1 escenario principal y 4 escenarios</li>
 						<li>Horarios: 10:00 – 14:00 y 16:00 – 19:00</li>

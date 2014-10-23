@@ -1,8 +1,9 @@
 
 
-<div class="panel panel-default col-md-12 menu-panel">
-  <div class="panel-body">
-        <a href="#"><h3>Invitados</h3></a>
+<div class="panel panel-default col-md-12 menu-panel phone">
+    <a href="../invitados.php">
+    <div class="panel-body">
+        <h3 class="text-danger">Invitados</h3>
         <div id="invitados" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
 
@@ -39,29 +40,42 @@
                     </div>
 
                 </div>
+
             </div>
         </div>
     </div>
-</div>
+</div></a>
 
 <div class="panel panel-default col-md-12 menu-panel">
   <div class="panel-body text-center">
-    <a href="#"><h3>Agenda</h3></a>
-    <i class="icon-linux ico-menu "></i>
+    <a href="#"><h3 class="text-danger">Agenda</h3></a>
+    <i class="icon-calendar ico-menu "></i>
 
   </div>
 </div>
 <div class="panel panel-default col-md-12 menu-panel">
+<a href="../talleres.php">
   <div class="panel-body text-center">
-    <a href="#"><h3>Talleres</h3></a>
+    <h3 class="text-danger">Talleres</h3>
     <i class="icon-cogs ico-menu "></i>
 
   </div>
+  </a>
 </div>
 <div class="panel panel-default col-md-12 menu-panel">
+  <a href="../registro.php">
   <div class="panel-body text-center">
-    <a href="#"><h3>Regsitro</h3></a>
-    <i class="icon-edit ico-menu"></i></a>
-  </div>
+    <h3 class="text-danger">Registro</h3>
+    <i class="icon-edit ico-menu"></i>
+  </div></a>
 </div>
+
+<div class="panel panel-default col-md-12 menu-panel">
+  <a href="../ponentes.php" target="_blank">
+  <div class="panel-body text-center">
+    <h3 class="text-danger">Registro Ponentes</h3>
+    <i class="icon-linux ico-menu"></i>
+  </div></a>
+</div>
+
 
