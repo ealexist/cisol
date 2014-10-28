@@ -58,6 +58,7 @@
 							Estudiantes: $300.00<br><br>
 							General: $500.00<br><br>
 							</strong>
+
 						</p>
 					</div>
 
@@ -75,10 +76,19 @@
 							</strong>
 						</p >
 					</div>
+					<div class="col-md-12">
+						<h3><a href="/registro.php" class="text-danger">Inscríbete</a> y realiza tu pago:</h3>
+						<strong>
+							Banorte <br>
+							0851277277 <br>
+							Universidad Autónoma de Zacatecas
+						</strong>
+					</div>
 				</div>
 				<hr>
 
 				<p>
+
 					<h3>CONGRESO INTERNACIONAL DE SOFTWARE LIBRE 3.0 – 2014</h3>
 					La edición 3.0 del CISOL se esta planeando con la finalidad de
 					consolidar de manera definitiva a este evento como el mejor
@@ -121,6 +131,8 @@
 						<li>Concurso de programación con premios de intel</li>
 					</ul>
 
+					<a class="text-primary" href="/assets/pdf/convocatoria-concurso.pdf" target="_blanck"><h2 >Bases del concurso</h2></a>
+					<img src="/assets/img/pagina/concurso.jpg" width="100%"alt="">
 				</p>
 			</div>
 			<div class="row col-md-2 c2">
